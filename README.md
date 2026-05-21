@@ -39,4 +39,4 @@
 
 ## Автор
 
-Садриддин Нодиров
+Created by Sadriddin Nodirov for ICT WEEK.
